@@ -1,3 +1,8 @@
+This project include the following things:
+1) Fronted code where CURD will be operating
+2) Backend code where the api fetch or post
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
